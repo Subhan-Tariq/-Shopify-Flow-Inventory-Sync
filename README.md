@@ -56,5 +56,6 @@ Adjust the GraphQL query if additional variant data is required.
 If you have improvements or bug fixes, feel free to fork the repository and submit a pull request!
 
 Author: Subhan Tariq
+
 📧 Contact: subhant745@gmail.com
 
